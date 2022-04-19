@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Raphaëlle</h1>
-<h3 align="center">Je suis étudiante en licence informatique.</h3>
+<h3 align="center">Je suis étudiante en CMI informatique et simulation numérique.</h3>
 
 - 🌱 Actuellement, je suis entrain d'apprendre **Python, C++, C**
 

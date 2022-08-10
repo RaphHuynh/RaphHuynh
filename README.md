@@ -2,7 +2,7 @@
 <h3 align="center">Je suis étudiante en CMI informatique et simulation numérique.</h3>
 
 - 🌱 Actuellement, je suis entrain d'apprendre le **Python, C++ et C**
-- Afin de répondre aux questions de mes collègues, j'ai créé des cours d'informatique disponible sur ce lien :
+- Afin de répondre aux questions de mes collègues, j'ai créé des cours d'informatiques disponiblent sur ce lien :
 https://urlz.fr/i27F
 - 📫 Comment me joindre **raphaelle.huynh@etudiant.univ-reims.fr**
 

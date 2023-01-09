@@ -7,7 +7,7 @@
 - Actuellement, je suis entrain d'apprendre le **Python** et le **JAVA** (coté serveur)
 - Afin de répondre aux questions de mes collègues, j'ai créé des cours d'informatiques disponiblent sur ce lien : **https://urlz.fr/i27F**
 - 📫 Comment me joindre **raphaelle.huynh@etudiant.univ-reims.fr**
-- Mon CV est disponible ici : **https://urlz.fr/jAuO**
+- Mon CV est disponible ici : **[https://urlz.fr/jAuO](https://raphhuynh.github.io/react-portefolio/)**
 
 ---
 

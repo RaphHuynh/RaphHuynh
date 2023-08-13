@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je suis Raphaëlle</h1>
 <h3 align="center">Je suis étudiante en Licence informatique.</h3>
 
-<p align="center">🔭 Actuellement je travail sur <strong>Françaises des developpeuses</strong></p>
+<p align="center">🔭 Actuellement je travail sur <strong>Françaises des developpeuses</strong> et l'api de <strong>Tindev</strong></p>
 <p align="center">🌱 Actuellement j'apprend <strong>FASTAPI, ReactJS</strong></p>
 <p align="center">👨‍💻 Mon portfolio : https://raphhuynh.github.io/react-portefolio/</p>
 <p align="center">📫 Comment me joindre : <strong>raphaelle.huynh@etudiant.univ-reims.fr</strong></p>

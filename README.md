@@ -4,10 +4,15 @@
 
 <h3 align="center">Je suis étudiante en Licence informatique.</h3>
 
-<p align="center">🔭 Actuellement je travail sur <strong>Françaises des developpeuses</strong> et l'api de <strong>Tindev</strong></p>
-<p align="center">🌱 Actuellement j'apprend <strong>FASTAPI et la data science</strong></p>
-<p align="center">👨‍💻 Mon portfolio : https://raphhuynh.github.io/react-portefolio/</p>
-<p align="center">📫 Comment me joindre : <strong>raphaellehuynh@gmail.com</strong></p>
+<p align="center">🔭 Actuellement je travaille sur <strong>Françaises des développeuses</strong> et l'API de <strong>Tindev</strong></p>
+<p align="center">🌱 Actuellement j'apprends <strong>FASTAPI et la data science</strong></p>
+<p align="center">👨‍💻 Mon portfolio : <a href="https://raphhuynh.github.io/react-portefolio/">https://raphhuynh.github.io/react-portefolio/</a></p>
+<p align="center">📫 Comment me joindre par mail : <strong>raphaellehuynh@gmail.com</strong></p>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/raphhuynh?label=Follow&color=blue&style=flat-square&logo=GitHub" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=raphhuynh&color=blue&style=flat-square" alt="raphhuynh view profile" />
+</div>
 
 ###
 
@@ -80,13 +85,5 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphhuynh&radius=16&theme=gotham&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/raphhuynh/count.svg?"  />
-</div>
-
-###
 
 

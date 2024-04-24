@@ -4,7 +4,7 @@
 
 <h3 align="center">Je suis étudiante en Licence informatique.</h3>
 
-<p align="center">🔭 Actuellement je travaille sur <strong>Françaises des développeuses</strong> et l'API de <strong>Tindev</strong></p>
+<p align="center">🔭 Actuellement je travaille sur <strong>Françaises des développeuses</strong> et la création de <strong>Cours d'intelligence artificielle</strong></p>
 <p align="center">🌱 Actuellement j'apprends <strong>FASTAPI et la data science</strong></p>
 <p align="center">👨‍💻 Mon portfolio : <a href="https://raphhuynh.github.io/react-portefolio/">https://raphhuynh.github.io/react-portefolio/</a></p>
 <p align="center">📫 Comment me joindre par mail : <strong>raphaellehuynh@gmail.com</strong></p>

@@ -97,7 +97,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphhuynh&show_icons=true&theme=dark&locale=en&layout=compact" alt="raphhuynh" /></p>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphhuynh&radius=16&theme=gotham&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution" height="300" alt="activity-graph graph"  />
-</div>

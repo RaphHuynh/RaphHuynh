@@ -1,8 +1,8 @@
 _Bienvenue sur mon profil 👋_
 
-```
-Salut, étant pasionnée d'informatique et de science en général ici tu trouveras divers projets que j'ai réalisé. Je code actuellement de tout mais je me forme petit à petit au monde de la data science et de l'intelligence artificielle.
-```
+
+    Salut, étant pasionnée d'informatique et de science en général ici tu trouveras divers projets que j'ai réalisé. Je code actuellement de tout mais je me forme petit à petit au monde de la data science et de l'intelligence artificielle.
+
 
 #### Status :
 - Etudiante en <a href="https://www.univ-reims.fr/formation/catalogue-de-formation/master-informatique,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=198">Master informatique</a> spé IA

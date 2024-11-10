@@ -1,99 +1,53 @@
-<h1 align="center">Salut 👋, je suis Raphaëlle</h1>
+_Bienvenue sur mon profil 👋_
 
-###
+```
+Salut, étant pasionnée d'informatique et de science en général ici tu trouveras divers projets que j'ai réalisé. Je code actuellement de tout mais je me forme petit à petit au monde de la data science et de l'intelligence artificielle.
+```
 
-<h3 align="center">Je suis étudiante en Master informatique spé IA.</h3>
-
-<p align="center">🔭 Actuellement je travaille sur <strong>Françaises des développeuses</strong> et la création de <strong>Cours d'intelligence artificielle</strong></p>
-<p align="center">🌱 En freelance chez Freaks United et Data Scientist à l'IIAS.
-<p align="center">👨‍💻 Mon portfolio : <a href="https://raphhuynh.github.io/portfolio/">https://raphhuynh.github.io/portfolio/</a></p>
-<p align="center">📫 Comment me joindre par mail : <strong>raphaellehuynh@gmail.com</strong></p>
-
-<div align="center">
+#### Status :
+- Etudiante en <a href="https://www.univ-reims.fr/formation/catalogue-de-formation/master-informatique,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=198">Master informatique</a> spé IA
+- Data Scientist / Manager en Alternance à <a href="https://www.iias.fr/accueil">l'IIAS (institut d'intelligence artificielle en santé)</a>
+- Chef de projet web en Freelance chez <a href="https://www.linkedin.com/company/freaksunited/posts/?feedView=all">Freaks United</a>
+  
+---
+<div>
   <img src="https://img.shields.io/github/followers/raphhuynh?label=Follow&color=blue&style=flat-square&logo=GitHub" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=raphhuynh&color=blue&style=flat-square" alt="raphhuynh view profile" />
 </div>
 
-###
+### ⚒️ Mes outils 
 
-<h3 align="center">Langages</h3>
+#### Langages que j'utilise : 
+```
+Python, C, Java, JavaScript, HTML, CSS
+```
+#### Librairies pour la Data Science :
+```
+Matplotlib, Plotly, Numpy, Pandas, Scikit-learn, Tensorflow, Pytorch, NLTK,
+OpenCV, Yolo, Pydicom, Kaggle, Shiny, Seaborn
+```
+#### Frameworks et librairies web :
+```
+FastAPI, ReactJS, Shiny, Laravel, WordPress, Tailwind CSS
+```
+#### Base de données :
+```
+SQL, Oracle - PL/SQL - Click House, MySQL - UML - Merise
+```
 
-###
+### 📂 Mes projets
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-</div>
+Disponible actuellement sur mon <a href="https://raphhuynh.github.io/portfolio/">portfolio</a> _... à venir_
 
-###
+### 🔗 Mes liens
 
-<h3 align="center">Data science</h3>
+- 🌐 Mon <a href="https://raphhuynh.github.io/portfolio/">portfolio</a> où tu trouveras plus d'informations
+- 📱 Ma communauté <a href="https://discord.gg/8nKN4fduVD">discord</a> que j'ai pu monté au fur et à mesure du temps en partageant mon travail _communauté de developpeur_
 
-###
+##
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
-</div>
-
-###
-
-<h3 align="center">Database</h3>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="40" alt="oracle logo"  />
-</div>
-
-###
-
-<h3 align="center">Frameworks web</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="35" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="35" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="center">Pour me contacter</h3>
-
-###
-
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/raphaëlle-huynh-46192919b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphhuynh&show_icons=true&theme=dark&locale=en&layout=compact" alt="raphhuynh" /></p>
-
-###

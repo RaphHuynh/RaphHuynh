@@ -1,7 +1,7 @@
 _Bienvenue sur mon profil 👋_
 
 
-    Salut, étant pasionnée d'informatique et de science en général ici tu trouveras divers projets que j'ai réalisé. Je code actuellement de tout mais je me forme petit à petit au monde de la data science et de l'intelligence artificielle.
+Salut, étant pasionnée d'informatique et de science en général ici tu trouveras divers projets que j'ai réalisé. Je code actuellement de tout mais je me forme petit à petit au monde de la data science et de l'intelligence artificielle.
 
 
 #### Status :

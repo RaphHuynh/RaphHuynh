@@ -21,13 +21,9 @@ Disponible actuellement sur mon <a href="https://raphhuynh.github.io/portfolio/"
 
 #### Projets Data science : 
 
-<a href="https://github.com/RaphHuynh/projet_analyse_de_texte">🖋️⌨️ - Interface d'analyse de texte :</a>
+<strong><a href="https://github.com/RaphHuynh/projet_analyse_de_texte">🖋️⌨️ - Interface d'analyse de texte :</a></strong>
 
 >J'ai developpé une interface d'analyse de texte en python et shiny afin d'analyser différentes données de documents textes, comme calculer la distance entre les phrases pour trouver les voisins les plus proches d'une phrase selectionnée. J'ai aussi développé d'autres features.
-
-#### Autres projets personnels et freelance :
-
-Disponible actuellement sur mon <a href="https://raphhuynh.github.io/portfolio/">portfolio</a>
 
 ### ⚒️ Mes outils 
 

@@ -42,7 +42,7 @@ FastAPI, ReactJS, Shiny, Laravel, WordPress, Tailwind CSS
 ```
 #### Base de données :
 ```
-SQL, Oracle - PL/SQL - Click House, MySQL - UML - Merise
+SQL, Oracle - PL/SQL, ClickHouse, MySQL - UML - Merise
 ```
 
 ### 🔗 Mes liens
@@ -53,6 +53,9 @@ SQL, Oracle - PL/SQL - Click House, MySQL - UML - Merise
 ##
 
 <div align="right">
+  <a href="https://discord.gg/8nKN4fduVD" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="linkedin logo"  />
+    </a>
   <a href="https://www.linkedin.com/in/raphaëlle-huynh-46192919b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>

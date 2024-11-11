@@ -15,6 +15,20 @@ Salut, étant pasionnée d'informatique et de science en général ici tu trouve
   <img src="https://komarev.com/ghpvc/?username=raphhuynh&color=blue&style=flat-square" alt="raphhuynh view profile" />
 </div>
 
+### 📂 Mes projets
+
+Disponible actuellement sur mon <a href="https://raphhuynh.github.io/portfolio/">portfolio</a>
+
+#### Projets Data science : 
+
+<a href="https://github.com/RaphHuynh/projet_analyse_de_texte">🖋️⌨️ - Interface d'analyse de texte :</a>
+
+>J'ai developpé une interface d'analyse de texte en python et shiny afin d'analyser différentes données de documents textes, comme calculer la distance entre les phrases pour trouver les voisins les plus proches d'une phrase selectionnée. J'ai aussi développé d'autres features.
+
+#### Autres projets personnels et freelance :
+
+Disponible actuellement sur mon <a href="https://raphhuynh.github.io/portfolio/">portfolio</a>
+
 ### ⚒️ Mes outils 
 
 #### Langages que j'utilise : 
@@ -34,10 +48,6 @@ FastAPI, ReactJS, Shiny, Laravel, WordPress, Tailwind CSS
 ```
 SQL, Oracle - PL/SQL - Click House, MySQL - UML - Merise
 ```
-
-### 📂 Mes projets
-
-Disponible actuellement sur mon <a href="https://raphhuynh.github.io/portfolio/">portfolio</a> _... à venir_
 
 ### 🔗 Mes liens
 

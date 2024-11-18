@@ -7,7 +7,6 @@ Salut, étant pasionnée d'informatique et de science en général ici tu trouve
 #### Status :
 - Etudiante en <a href="https://www.univ-reims.fr/formation/catalogue-de-formation/master-informatique,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=198">Master informatique</a> spé IA
 - Data Scientist / Manager en Alternance à <a href="https://www.iias.fr/accueil">l'IIAS (institut d'intelligence artificielle en santé)</a>
-- Chef de projet web en Freelance chez <a href="https://www.linkedin.com/company/freaksunited/posts/?feedView=all">Freaks United</a>
   
 ---
 <div>

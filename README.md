@@ -20,7 +20,7 @@ Disponible actuellement sur mon <a href="https://raphhuynh.github.io/portfolio/"
 
 #### Projets Data science : 
 
-<strong><a href="[https://github.com/RaphHuynh/projet_analyse_de_texte](https://github.com/RaphHuynh/Interface-NLP-avec-nuage-de-mot-Chatbot-basique-et-Analyse-de-documents](https://github.com/RaphHuynh/Interface-NLP-avec-nuage-de-mot-Chatbot-basique-et-Analyse-de-documents)">🖋️⌨️ - Interface d'analyse de texte :</a></strong>
+<strong><a href="https://github.com/RaphHuynh/Interface-NLP-avec-nuage-de-mot-Chatbot-basique-et-Analyse-de-documents">🖋️⌨️ - Interface d'analyse de texte :</a></strong>
 
 >J'ai developpé une interface d'analyse de texte en python et shiny afin d'analyser différentes données de documents textes, corpus, comme calculer la distance entre les phrases pour trouver les voisins les **plus proches voisin** d'un corpus. J'ai aussi développé d'autres features commen un simple **chatbot** et divers **nuages de mots**.
 

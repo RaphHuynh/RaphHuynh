@@ -28,7 +28,7 @@ Disponible actuellement sur mon <a href="https://raphhuynh.github.io/portfolio/"
 
 #### Langages que j'utilise : 
 ```
-Python, C, Java, JavaScript, HTML, CSS
+Python, R, C, Java, JavaScript, HTML, CSS
 ```
 #### Librairies pour la Data Science :
 ```

@@ -24,6 +24,10 @@ Disponible actuellement sur mon <a href="https://raphhuynh.github.io/portfolio/"
 
 >J'ai developpé une interface d'analyse de texte en python et shiny afin d'analyser différentes données de documents textes, corpus, comme calculer la distance entre les phrases pour trouver les voisins les **plus proches voisin** d'un corpus. J'ai aussi développé d'autres features commen un simple **chatbot** et divers **nuages de mots**.
 
+<strong><a href="https://github.com/RaphHuynh/projet_info707_bot_discord_reunion_resume">🤖🛜 - Sum'App :</strong>
+
+> J'ai pu développer un bot discord et une application web permettant de générer des résumés de conversions orales sur discord en générant des pdf et en pouvant gérer ses réunions depuis une app web.
+
 ### ⚒️ Mes outils 
 
 #### Langages que j'utilise : 

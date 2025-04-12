@@ -1,7 +1,7 @@
 _Bienvenue sur mon profil 👋_
 
 
-Salut, étant pasionnée d'informatique et de science en général ici tu trouveras divers projets que j'ai réalisé. Je code actuellement de tout mais je me forme petit à petit au monde de la data science et de l'intelligence artificielle.
+Salut, étant passionnée d'informatique et de science en général ici tu trouveras divers projets que j'ai réalisés. Je code actuellement de tout mais je me forme petit à petit au monde de la data science et de l'intelligence artificielle.
 
 
 #### Status :
@@ -22,7 +22,7 @@ Disponible actuellement sur mon <a href="https://raphhuynh.github.io/portfolio/"
 
 <strong><a href="https://github.com/RaphHuynh/Interface-NLP-avec-nuage-de-mot-Chatbot-basique-et-Analyse-de-documents">🖋️⌨️ - Interface d'analyse de texte :</a></strong>
 
->J'ai developpé une interface d'analyse de texte en python et shiny afin d'analyser différentes données de documents textes, corpus, comme calculer la distance entre les phrases pour trouver les voisins les **plus proches voisin** d'un corpus. J'ai aussi développé d'autres features commen un simple **chatbot** et divers **nuages de mots**.
+>J'ai developpé une interface d'analyse de texte en python et shiny afin d'analyser différentes données de documents textes, corpus, comme calculer la distance entre les phrases pour trouver les **plus proches voisins** d'un corpus. J'ai aussi développé d'autres features commen un simple **chatbot** et divers **nuages de mots**.
 
 <strong><a href="https://github.com/RaphHuynh/projet_info707_bot_discord_reunion_resume">🤖🛜 - Sum'App :</strong>
 
@@ -37,11 +37,11 @@ Python, R, C, Java, JavaScript, HTML, CSS
 #### Librairies pour la Data Science :
 ```
 Matplotlib, Plotly, Numpy, Pandas, Scikit-learn, Tensorflow, Pytorch, NLTK,
-OpenCV, Yolo, Pydicom, Kaggle, Shiny, Seaborn
+OpenCV, Yolo, Pydicom, Kaggle, Shiny, Seaborn, Keras, Matplotlib, ggplot, ggmap
 ```
 #### Frameworks et librairies web :
 ```
-FastAPI, ReactJS, Shiny, Laravel, WordPress, Tailwind CSS
+FastAPI, Streamlit, Shiny, ReactJS, Shiny, Laravel, WordPress, Tailwind CSS
 ```
 #### Base de données :
 ```
@@ -51,7 +51,7 @@ SQL, Oracle - PL/SQL, ClickHouse, MySQL - UML - Merise
 ### 🔗 Mes liens
 
 - 🌐 Mon <a href="https://raphhuynh.github.io/portfolio/">portfolio</a> où tu trouveras plus d'informations
-- 📱 Ma communauté <a href="https://discord.gg/8nKN4fduVD">discord</a> que j'ai pu monté au fur et à mesure du temps en partageant mon travail _communauté de developpeur_
+- 📱 Ma communauté <a href="https://discord.gg/8nKN4fduVD">discord</a> que j'ai pu monter au fur et à mesure du temps en partageant mon travail _communauté de developpeur_
 
 ##
 
